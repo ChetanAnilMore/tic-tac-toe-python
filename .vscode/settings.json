@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+    "./library/src/tic_tac_toe/logic"
+  ]
+}
